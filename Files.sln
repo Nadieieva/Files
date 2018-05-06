@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_Read", "Files\XML_Read.csproj", "{EE39A75B-C8CE-48BB-8792-CE913845731A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{A92E8983-953B-41EC-963E-F8EF206E049A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE39A75B-C8CE-48BB-8792-CE913845731A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE39A75B-C8CE-48BB-8792-CE913845731A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE39A75B-C8CE-48BB-8792-CE913845731A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE39A75B-C8CE-48BB-8792-CE913845731A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A92E8983-953B-41EC-963E-F8EF206E049A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92E8983-953B-41EC-963E-F8EF206E049A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92E8983-953B-41EC-963E-F8EF206E049A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92E8983-953B-41EC-963E-F8EF206E049A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A522EF6-6EB5-4FA2-85CD-4AC3C94EAD7A}
+	EndGlobalSection
+EndGlobal
